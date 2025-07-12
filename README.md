@@ -1,29 +1,21 @@
-Team Name :- Visionary Stack
+## 🧠 Team Name: Visionary Stack
 
+### 👤 Team Leader:
+- **Name:** Dev Manghani  
+- **Phone:** 7228865797  
+- **Email:** manghanidev69@gmail.com
 
-team leader:-
-name - Dev Manghani
-phone - 7228865797
-email - manghanidev69@gmail.com
+### 👥 Team Member 1:
+- **Name:** Dev Patel  
+- **Phone:** 8734835064  
+- **Email:** pateldev21304@gmail.com
 
-team member 1:-
-name - Dev Patel
-phone - 8734835064
-email - pateldev21304@gmail.com
+### 👥 Team Member 2:
+- **Name:** Saumil Jani  
+- **Phone:** 7984891422  
+- **Email:** saumiljani.13@gmail.com
 
-team member 2 :- 
-name - Saumil Jani
-phone - 7984891422
-email - saumiljani.13@gmail.com
-
-
-team member 3 :- 
-name - Rudra Buch
-phone - 9313557503
-email - rudrabuch6404@gmail.com
-
-
-
-
-
-
+### 👥 Team Member 3:
+- **Name:** Rudra Buch  
+- **Phone:** 9313557503  
+- **Email:** rudrabuch6404@gmail.com
